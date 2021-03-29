@@ -108,7 +108,7 @@
     "pbf": "3.2.1",
     "rc-slider": "9.7.1",
     "react": "16.14.0",
-    "react-app-polyfill": "1.0.6",
+    "react-app-polyfill": "2.0.0",
     "react-device-detect": "1.15.0",
     "react-dom": "16.14.0",
     "react-map-gl": "5.2.12",
